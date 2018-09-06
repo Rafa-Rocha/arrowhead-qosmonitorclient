@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!QosMonitorClient-4.0-TARGET.jar
 *.war
 *.nar
 *.ear
